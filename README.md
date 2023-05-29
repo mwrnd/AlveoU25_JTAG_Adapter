@@ -43,9 +43,9 @@ Alveo U25 Debug Connector to Xilinx JTAG, UART, and I2C. The pinout is not avail
 
 ## Previous Version
 
-[`v0.1-alpha`](https://github.com/mwrnd/AlveoU25_JTAG_Adapter/releases/tag/v0.1-alpha) was a basic breakout board for the Alveo U25 Debug Connector.
+[`v0.1-alpha`](https://github.com/mwrnd/AlveoU25_JTAG_Adapter/releases/tag/v0.1-alpha) was a basic breakout board for the Alveo U25 Debug Connector. It was never manufactured or tested.
 
-Only two components were required: [MEC8-113-02-L-D-RA1](https://www.trustedparts.com/en/search/MEC8-113-02-L-D-RA1) and [SBH21-NBPN-D07-ST-BK](https://www.trustedparts.com/en/search/SBH21-NBPN-D07-ST-BK).
+Only two components would have been required: [MEC8-113-02-L-D-RA1](https://www.trustedparts.com/en/search/MEC8-113-02-L-D-RA1) and [SBH21-NBPN-D07-ST-BK](https://www.trustedparts.com/en/search/SBH21-NBPN-D07-ST-BK).
 
 ![Alveo U25 to Xilinx JTAG Adapter](img/AlveoU25_JTAG_Adapter.png)
 
