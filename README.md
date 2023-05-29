@@ -1,4 +1,4 @@
-**Work-In-Progress** : [PCB Gerbers](https://github.com/mwrnd/AlveoU25_JTAG_Adapter/releases/download/v0.1-alpha/AlveoU25_JTAG_Adapter-Gerbers.zip) ready but not yet ordered.
+**Work-In-Progress** : [PCB Gerbers](https://github.com/mwrnd/AlveoU25_JTAG_Adapter/releases/download/v0.2-alpha/AlveoU25_JTAG_Adapter_Gerbers.zip) ready but not yet ordered.
 
 # AlveoU25_JTAG_Adapter
 
