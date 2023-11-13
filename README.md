@@ -14,7 +14,7 @@ I have successfully used it to debug and program an Alveo U25.
 
 ![Alveo U25 JTAG Adapter in Use](img/Alveo_U25_JTAG_Adapter_In_Use.jpg)
 
-The pinout is not available publicly so the signals had to be [traced out](https://github.com/mwrnd/notes/blob/main/Alveo_U25/debug_log.md#figuring-out-the-jtag-debug-connector).
+The pinout is not available publicly so the signals had to be [traced out](https://github.com/mwrnd/alveo_u25_notes/blob/main/debug_log.md#figuring-out-the-jtag-debug-connector).
 
 ![Tracing Alveo U25 JTAG Signals](img/U25_JTAG_Debug_Header_Signal_Tracing.jpg)
 
@@ -55,7 +55,7 @@ The pinout is not available publicly so the signals had to be [traced out](https
 | Designator(s)    | Part Number          | Quantity | Footprint         | Availability                                                                |
 | ---------------- | -------------------- | -------- | ----------------- | --------------------------------------------------------------------------- |
 | J5, J7           | PPTC061LFBN-RC       |        2 | 1x06_2.54mm       | [TrustedParts](https://www.trustedparts.com/en/search/PPTC061LFBN-RC)       |
-| J3, J4           | PPTC042LFBN-RC       |        2 | 2x04_2.54x2.54mm  | [TrustedParts](https://www.trustedparts.com/en/search/PPTC082LFBN-RC)       |
+| J3, J4           | PPTC042LFBN-RC       |        2 | 2x04_2.54x2.54mm  | [TrustedParts](https://www.trustedparts.com/en/search/PPTC042LFBN-RC)       |
 | J6               | PREC002DAAN-RC       |        1 | 2x02_2.54mm       | [TrustedParts](https://www.trustedparts.com/en/search/PREC002DAAN-RC)       |
 | x, x             | STC02SYAN            |          | None - Jumper     | [TrustedParts](https://www.trustedparts.com/en/search/STC02SYAN)            |
 
